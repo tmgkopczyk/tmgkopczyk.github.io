@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Troy's First Jekyll Post"
-date: 2026-03-29 17:02:40 -0500
+date: 2026-03-29
 ---
 
 Ok, so this appears to be my second post on this blog, but really it's actually the first one, since the first post is just an example post (note to self: delete the other post at some point).
